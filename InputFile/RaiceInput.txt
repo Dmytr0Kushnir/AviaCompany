@@ -1,0 +1,9 @@
+4
+Kyiv-Odesa
+100
+Lviv-Kyiv
+120
+Odesa-Rivne
+120
+Rivne-Lviv
+140

@@ -1,0 +1,6 @@
+Person Info: 
+Full name:Vasya Pupkin 
+Passport Number: 777
+Gender: man
+Age: 21
+Amount money: 49860
